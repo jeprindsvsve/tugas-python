@@ -1,3 +1,5 @@
+from art import tprint
+tprint("halo")
 nama = input("masukkan nama anda:")
 print("halo", nama)
 
